@@ -60,7 +60,7 @@ h3 {
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
-    background: hsl(52, 100%, 69%);
+    background: rgb(255, 167, 96);
     border-bottom: 2px solid hsl(212, 96%, 56%);
 }
 
@@ -90,7 +90,7 @@ nav a {
     line-height: 18px;
     color: hsl(212, 96%, 56%);
     text-decoration: none;
-    border-left: 1px solid #efefef;
+    border-left: 1px solid #000;
 }
 
 nav a:hover {
@@ -210,7 +210,7 @@ h3,
 }
 
 .work h3 a:hover {
-    color: hsl(52, 100%, 69%);
+    color: rgb(255, 167, 96);
 }
 
 .auth-image {
